@@ -114,6 +114,10 @@ st.markdown("""
     header{
          visibility:hidden;    
     }
+    .st-ej div{
+
+    color:white;
+    }
          </style>
         """, unsafe_allow_html=True)
 
